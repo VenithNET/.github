@@ -15,9 +15,6 @@ We also hope you can all stick around for the exciting future of the inclusive s
 
 You can check out our websites below for more information.<br>
 ### 📫 Check us out!
-[![Website](https://tinyurl.com/53xz8ee3)](https://crazyhelltechnologies.github.io/CrazyHellTechnologies)<br>
+[![Website](https://tinyurl.com/53xz8ee3)](https://venith.net)<br>
 [![Discord](https://tinyurl.com/yw2am5ah)](https://discord.gg/VhfM3UncBB)<br>
 [![Odysee](https://img.shields.io/badge/CrazyHellTechnologies-EF1970?style=flat&logo=Odysee&logoColor=white)](https://odysee.com/@mattdoestech726:5)<br>
-[![NicoNico](https://img.shields.io/badge/%40CrazyHellTech-0088cc?style=flat&logo=niconico&logoColor=ffffff)](https://www.nicovideo.jp/user/126721048)<br>
-[![Bilibili](https://bilistats.lonelyion.com/followers?uid=1500079337&style=flat)](https://space.bilibili.com/1500079337)<br>
-[![KOOKAPP](https://tinyurl.com/yhpv9vt9)](https://kookapp.cn/widget?id=2477159536848951&theme=dark)<br>
