@@ -16,6 +16,6 @@ We also hope you can all stick around for the exciting future of the inclusive s
 You can check out our websites below for more information.<br>
 ### 📫 Check us out!
 [![Website](https://tinyurl.com/53xz8ee3)](https://venith.net)<br>
-[![Discord](https://tinyurl.com/yw2am5ah)](https://discord.gg/VhfM3UncBB)<br>
 [![Guilded](https://tinyurl.com/pmretkub)](https://guilded.gg/TDK)<br>
+[![Discord](https://tinyurl.com/yw2am5ah)](https://discord.gg/VhfM3UncBB)<br>
 [![Odysee](https://img.shields.io/badge/CrazyHellTechnologies-EF1970?style=flat&logo=Odysee&logoColor=white)](https://odysee.com/@mattdoestech726:5)<br>
