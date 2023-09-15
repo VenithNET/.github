@@ -1,5 +1,5 @@
 ## 💻 VENITH</br>
-<img align="center" src="https://venith.net/Media/Vlogo.jpg" /></br>
+<img align="center" src="https://venith.net/Media/Vlogo.png" /></br>
 <img align="right" src="https://media.zenfs.com/en-US/homerun/tech.mashable/265f233fa7d748a8fef4eccc514c5f6f" /></br>
 Welcome to the VENITH NET HQ operating on the planet Kepler-22B!
 
