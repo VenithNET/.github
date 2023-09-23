@@ -11,9 +11,9 @@ We also hope you can all stick around for the exciting future of the inclusive s
 - 💻 We're currently working on scripting, and refining servers.
 - 🌐 We have our own website.
 - 🐧 Fun fact: Our founder likes Linux.
-
+- 
 You can check out our socials below for more information.<br>
-### 📫 Check us out!<br>
+### 📫 Check us out!
 [![Website](https://tinyurl.com/4uktfywu)](https://venith.net)<br>
 [![Guilded](https://tinyurl.com/pmretkub)](https://guilded.gg/TDK)<br>
 [![Discord](https://tinyurl.com/yw2am5ah)](https://discord.gg/VhfM3UncBB)<br>
