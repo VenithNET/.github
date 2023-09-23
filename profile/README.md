@@ -6,11 +6,11 @@ We're a development group focusing on Linux, the development of VENITH NET, and 
 
 We also hope you can all stick around for the exciting future of the inclusive scene.
 
-- 🐉 Creator of Venith.
+- 🐉 Creator of VENITH.
 - 🐱‍💻 Co-developer duo.
 - 💻 We're currently working on scripting, and refining servers.
-- 🌐 We have our own website.
 - 🐧 Fun fact: Our founder likes Linux.
+- 🌐 We have our own website.
 
 You can check out our socials below for more information.<br>
 ### 📫 Check us out!
