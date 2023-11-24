@@ -1,5 +1,4 @@
 ## 💻 VENITH.NET</br>
-<img align="center" src="https://venith.net/Media/Vlogo.png" width="64" height="64"/></br>
 Welcome to the Venith Network HQ operating on the planet Kepler-22B!
 
 We're a development group focusing on Linux, the development of the Venith Network, and much more. We have done quite a bit of things over the years. So sit back, and relax. We're a chill community.
@@ -17,3 +16,4 @@ You can check out our socials below for more information.<br>
 [![Guilded](https://tinyurl.com/pmretkub)](https://guilded.gg/TDK)<br>
 [![Discord](https://tinyurl.com/3b9s4sz7)](https://discord.gg/VhfM3UncBB)<br>
 [![Odysee](https://img.shields.io/badge/MattTheTekie-EF1970?style=flat&logo=Odysee&logoColor=white)](https://odysee.com/@mattdoestech726:5)<br>
+<img align="center" src="https://venith.net/Media/Vlogo.png" width="64" height="64"/></br>
