@@ -1,4 +1,4 @@
-## 💻 VENITH.NET</br>
+## 💻 VENITH</br>
 Welcome to the Venith Network HQ operating on the planet Kepler-22B!
 
 We're a development group focusing on Linux, the development of the Venith Network, and much more. We have done quite a bit of things over the years. So sit back, and relax. We're a chill community.
