@@ -1,15 +1,14 @@
 ## 💻 VENITH</br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=wiilink24.com&fontSize=90&animation=fadeIn)
+## Welcome to the Venith Network.
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/VENITHNET/VENITH.NET" /> <img alt="" src="https://img.shields.io/github/repo-size/VENITHNET/VENITH.NET" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/VENITHNET/VENITH.NET" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/VENITHNET/VENITH.NET" /> <img alt="Github License" src="https://img.shields.io/github/license/VENITHNET/VENITH.NET" />
+
 Welcome to the Venith Network HQ operating on the planet Kepler-22B!
 
 We're a development group focusing on Linux, the development of the Venith Network, and much more. We have done quite a bit of things over the years. So sit back, and relax. We're a chill community.
 
 We also hope you can all stick around for the exciting future of the inclusive scene.
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=wiilink24.com&fontSize=90&animation=fadeIn)
-## Welcome to the Venith Network.
-<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/VENITHNET/VENITH.NET" /> <img alt="" src="https://img.shields.io/github/repo-size/VENITHNET/VENITH.NET" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/VENITHNET/VENITH.NET" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/VENITHNET/VENITH.NET" /> <img alt="Github License" src="https://img.shields.io/github/license/VENITHNET/VENITH.NET" />
-
-A website where you can download our products, as well as getting up to date with our advancements, getting assistance with our products, and informing yourself in the status of them.
 #### All the fun people who've contributed:
 <a href = "https://github.com/VENITHNET/VENITH.NET/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=VENITHNET/VENITH.NET"/>
