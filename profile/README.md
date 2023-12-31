@@ -4,13 +4,10 @@ Welcome to the Venith Network HQ operating on the planet Kepler-22B!
 We're a development group focusing on Linux, the development of the Venith Network, and much more. We have done quite a bit of things over the years. So sit back, and relax. We're a chill community.
 
 We also hope you can all stick around for the exciting future of the inclusive scene.
+#### All the fun people who've contributed:
+<a href = "https://github.com/WiiLink24/web/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=VENITH.NET/VENITH"/>
 
-- 🐉 Creator of the Venith Network.
-- 🐱‍💻 Co-developer duo.
-- 💻 We're currently working on scripting, and refining servers.
-- 🌐 We have our own website.
-- 🐧 Fun fact: Our founder likes Linux.
-You can check out our socials below for more information.<br>
 ### 📫 Check us out!
 [![Website](https://tinyurl.com/4uktfywu)](https://venith.net)<br>
 [![Guilded](https://tinyurl.com/pmretkub)](https://guilded.gg/TDK)<br>
