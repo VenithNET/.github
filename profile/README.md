@@ -6,7 +6,7 @@ We're a development group focusing on Linux, the development of the Venith Netwo
 We also hope you can all stick around for the exciting future of the inclusive scene.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=wiilink24.com&fontSize=90&animation=fadeIn)
-## _Welcome to the Venith Network._
+## Welcome to the Venith Network.
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/VENITHNET/VENITH.NET" /> <img alt="" src="https://img.shields.io/github/repo-size/VENITHNET/VENITH.NET" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/VENITHNET/VENITH.NET" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/VENITHNET/VENITH.NET" /> <img alt="Github License" src="https://img.shields.io/github/license/VENITHNET/VENITH.NET" />
 A website where you can download our products, as well as getting up to date with our advancements, getting assistance with our products, and informing yourself in the status of them.
 #### All the fun people who've contributed:
