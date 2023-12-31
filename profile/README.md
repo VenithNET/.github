@@ -1,5 +1,6 @@
 ## 💻 VENITH</br>
-![header](https://avatars.githubusercontent.com/u/144567275?s=200&v=4)
+![header]<p align="center">
+  <img width="460" height="300" src="https://avatars.githubusercontent.com/u/144567275?s=200&v=4"></p>
 ## Welcome to the Venith Network.
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/VENITHNET/VENITH.NET" /> <img alt="" src="https://img.shields.io/github/repo-size/VENITHNET/VENITH.NET" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/VENITHNET/VENITH.NET" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/VENITHNET/VENITH.NET" /> <img alt="Github License" src="https://img.shields.io/github/license/VENITHNET/VENITH.NET" />
 
