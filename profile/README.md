@@ -6,7 +6,7 @@ We're a development group focusing on Linux, the development of the Venith Netwo
 We also hope you can all stick around for the exciting future of the inclusive scene.
 #### All the fun people who've contributed:
 <a href = "https://github.com/WiiLink24/web/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=VENITH.NET/VENITH"/>
+  <img src = "https://contrib.rocks/image?repo=VENITHNET/VENITH.NET"/>
 
 ### 📫 Check us out!
 [![Website](https://tinyurl.com/4uktfywu)](https://venith.net)<br>
