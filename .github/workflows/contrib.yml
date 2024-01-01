@@ -30,6 +30,6 @@ jobs:
     - name: Push Contributors PNG
       run: |
         git config --global user.name "MattTheTekie"
-        git add contributors.png
+        git add .
         git commit -m "Add contributors.png"
         git push origin HEAD:main
