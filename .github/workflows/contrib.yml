@@ -25,13 +25,16 @@ jobs:
            ./org_contributors.sh
            ./svg2png contributors.svg
            rm contributors.svg
+           rm svg2png
+           rm org.sh
+           rm org_contributors.sh
            cd profile
            ../org.sh
         
-    - name: Push Contributors PNG
+    - name: Push Contributors
       run: |
         git config --global user.email "you@example.com"
         git config --global user.name "MattTheTekie"
         git add .
-        git commit -m "Add contributors.png"
+        git commit -m "contib"
         git push origin HEAD:main
