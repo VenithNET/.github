@@ -17,11 +17,11 @@ jobs:
         chmod +x org_contributors.sh
 
     - name: Run Script
-      run: ./org_contributors.sh
+      run: ./org_contributors.sh && convert contributors.svg contributors.png && rm contributors.svg
 
-    - name: Push Contributors SVG
+    - name: Push Contributors PNG
       run: |
         git config --global user.name "MattTheTekie"
-        git add contributors.svg
-        git commit -m "Add contributors.svg"
+        git add contributors.png
+        git commit -m "Add contributors.png"
         git push origin HEAD:main
