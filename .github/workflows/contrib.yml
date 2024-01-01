@@ -24,12 +24,13 @@ jobs:
       run: |
            ./org_contributors.sh
            ./svg2png contributors.svg
+           cd profile
+           ../org.sh
+           cd ..
            rm contributors.svg
            rm svg2png
            rm org.sh
            rm org_contributors.sh
-           cd profile
-           ../org.sh
         
     - name: Push Contributors
       run: |
