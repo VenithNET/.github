@@ -18,6 +18,7 @@ jobs:
 
     - name: Run Script
       run: ./org_contributors.sh
+           ls -la
            convert contributors.svg contributors.png
            rm contributors.svg
         
