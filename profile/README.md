@@ -13,7 +13,7 @@ We're a development group focusing on Linux, the development of the Venith Netwo
 We also hope you can all stick around for the exciting future of the inclusive scene.</div></body>
 
 <body>
-<div align="left">
+<div align="center">
 
 #### All the fun people who've contributed:
 <a href = "https://github.com/VENITHNET/VENITH.NET/graphs/contributors">
