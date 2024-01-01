@@ -1,4 +1,4 @@
-[![GitHub Contributors](https://img.shields.io/github/contributors-anon/VENITHNET/VENITH.NET.svg)](https://github.com/VENITHNET/VENITH.NET/graphs/contributors)
+[![GitHub Contributors](https://img.shields.io/github/contributors/VENITHNET.svg)](https://github.com/VENITHNET/graphs/contributors)
 
 
 
