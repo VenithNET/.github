@@ -12,6 +12,7 @@ We also hope you can all stick around for the exciting future of the inclusive s
 <a href="https://raw.githubusercontent.com/VenithNET/.github/main/contributors.svg" target="_blank">
   <img src="https://raw.githubusercontent.com/VenithNET/.github/main/contributors.svg" style="max-width:100%; max-height:100%;" />
 </a>
+
 ### 📫 Check us out!
 [![Website](https://tinyurl.com/4uktfywu)](https://venith.net)<br>
 [![Guilded](https://tinyurl.com/pmretkub)](https://guilded.gg/TDK)<br>
