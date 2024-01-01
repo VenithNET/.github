@@ -17,8 +17,8 @@ jobs:
         chmod +x org_contributors.sh
 
     - name: Run Script
-      run: ./org_contributors.sh
-           ls -la
+      run: |
+           ./org_contributors.sh
            convert contributors.svg contributors.png
            rm contributors.svg
         
