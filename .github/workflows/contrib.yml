@@ -25,10 +25,12 @@ jobs:
            ./org_contributors.sh
            ./svg2png contributors.svg
            rm contributors.svg
+           cd profile
            ./org.sh
         
     - name: Push Contributors PNG
       run: |
+        git config --global user.email "you@example.com"
         git config --global user.name "MattTheTekie"
         git add .
         git commit -m "Add contributors.png"
