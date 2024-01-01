@@ -10,10 +10,14 @@
 <div align="center">
 Welcome to the Venith Network HQ operating on the planet Kepler-22B!
 We're a development group focusing on Linux, the development of the Venith Network, and much more. We have done quite a bit of things over the years. So sit back, and relax. We're a chill community.
-We also hope you can all stick around for the exciting future of the inclusive scene.
+We also hope you can all stick around for the exciting future of the inclusive scene.</div></body>
 
-#### All the fun people who've contributed:
-<a href = "https://github.com/VENITHNET/VENITH.NET/graphs/contributors">
+<body>
+<div align="left">
+  
+  #### All the fun people who've contributed:
+
+  <a href = "https://github.com/VENITHNET/VENITH.NET/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=VENITHNET/VENITH.NET"/>
 </a>
 
