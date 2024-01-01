@@ -1,4 +1,4 @@
-## 💻 VENITH
+<center><h1>💻 VENITH</h1></center>
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/144567275?s=200&v=4"></p></br>
 <center><h1>Welcome to the Venith Network.</h1></center>
