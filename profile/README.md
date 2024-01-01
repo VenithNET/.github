@@ -9,7 +9,7 @@ We also hope you can all stick around for the exciting future of the inclusive s
 
 #### All the fun people who've contributed:
 <a href = "https://github.com/VENITHNET/VENITH.NET/graphs/contributors">
-<img src = "../contributors.svg"/></a>
+<img src = "contributors.svg"/></a>
 
 ### 📫 Check us out!
 [![Website](https://tinyurl.com/4uktfywu)](https://venith.net)<br>
