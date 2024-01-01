@@ -8,9 +8,8 @@ We're a development group focusing on Linux, the development of the Venith Netwo
 We also hope you can all stick around for the exciting future of the inclusive scene.
 
 #### All the fun people who've contributed:
-<object type="image/svg+xml" data="https://raw.githubusercontent.com/VenithNET/.github/main/contributors.svg" width="100%" height="100%">
-  Your browser does not support SVG
-</object>
+![Contributors](https://raw.githubusercontent.com/VenithNET/.github/main/contributors.svg)
+
 
 
 
