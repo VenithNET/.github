@@ -8,6 +8,7 @@ We're a development group focusing on Linux, the development of the Venith Netwo
 We also hope you can all stick around for the exciting future of the inclusive scene.
 
 #### All the fun people who've contributed:
+
 <iframe src="https://raw.githubusercontent.com/VenithNET/.github/main/contributors.svg" width="100%" height="300px"></iframe>
 
 
