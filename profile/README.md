@@ -1,7 +1,3 @@
-[![GitHub Contributors](https://img.shields.io/github/contributors/VENITHNET.svg)](https://github.com/VENITHNET/graphs/contributors)
-
-
-
 <p align="center"><img src="https://avatars.githubusercontent.com/u/144567275?s=200&v=4"></p>
 <body><div align="center"><h1>Welcome to the Venith Network.</h1></div></body>
 <body><div align="center">
