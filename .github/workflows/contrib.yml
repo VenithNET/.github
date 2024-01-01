@@ -21,6 +21,7 @@ jobs:
 
     - name: Push Contributors SVG
       run: |
+        git config --global user.name "MattTheTekie"
         git add contributors.svg
         git commit -m "Add contributors.svg"
         git push origin HEAD:main
