@@ -7,7 +7,7 @@
 <div align="left">
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/VENITHNET/VENITH.NET" /> <img alt="" src="https://img.shields.io/github/repo-size/VENITHNET/VENITH.NET" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/VENITHNET/VENITH.NET" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/VENITHNET/VENITH.NET" /> <img alt="Github License" src="https://img.shields.io/github/license/VENITHNET/VENITH.NET" /></div></body>
 <body>
-<div align="left">
+<div align="center">
 Welcome to the Venith Network HQ operating on the planet Kepler-22B!
 We're a development group focusing on Linux, the development of the Venith Network, and much more. We have done quite a bit of things over the years. So sit back, and relax. We're a chill community.
 We also hope you can all stick around for the exciting future of the inclusive scene.
