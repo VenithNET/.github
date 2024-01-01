@@ -14,8 +14,10 @@ jobs:
       run: |
         echo Downloading Script...
         wget https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/master/Personal-Scripts/org_contributors.sh
+        wget https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/master/Personal-Scripts/org.sh 
         wget https://github.com/sterlp/svg2png/releases/download/v1.2.1/svg2png
         chmod +x org_contributors.sh
+        chmod +x org.sh
         chmod +x svg2png
 
     - name: Run Script
@@ -23,6 +25,7 @@ jobs:
            ./org_contributors.sh
            ./svg2png contributors.svg
            rm contributors.svg
+           ./org.sh
         
     - name: Push Contributors PNG
       run: |
