@@ -1,0 +1,26 @@
+name: Contrib
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Download Script
+      run: |
+        echo Downloading Script...
+        wget https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/master/Personal-Scripts/org_contributors.sh
+        chmod +x org_contributors.sh
+
+    - name: Run Script
+      run: ./org_contributors.sh
+
+    - name: Push Contributors SVG
+      run: |
+        git add contributors.svg
+        git commit -m "Add contributors.svg"
+        git push origin HEAD:main
