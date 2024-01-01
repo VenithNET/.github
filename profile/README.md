@@ -14,15 +14,11 @@ We also hope you can all stick around for the exciting future of the inclusive s
 
 <body>
 <div align="left">
-  
-  #### All the fun people who've contributed:
 
-  <a href = "https://github.com/VENITHNET/VENITH.NET/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=VENITHNET/VENITH.NET"/>
-</a></div></body>
-<body>
-<div align="center">
-  
+#### All the fun people who've contributed:
+<a href = "https://github.com/VENITHNET/VENITH.NET/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo=VENITHNET/VENITH.NET"/></a>
+
 ### 📫 Check us out!
 [![Website](https://tinyurl.com/4uktfywu)](https://venith.net)<br>
 [![Guilded](https://tinyurl.com/pmretkub)](https://guilded.gg/TDK)<br>
