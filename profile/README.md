@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/144567275?s=200&v=4"></p></br>
 <p align="center">
 
-## Welcome to the Venith Network.<br>
+## Welcome to the Venith Network.</p>
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/VENITHNET/VENITH.NET" /> <img alt="" src="https://img.shields.io/github/repo-size/VENITHNET/VENITH.NET" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/VENITHNET/VENITH.NET" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/VENITHNET/VENITH.NET" /> <img alt="Github License" src="https://img.shields.io/github/license/VENITHNET/VENITH.NET" />
 
 Welcome to the Venith Network HQ operating on the planet Kepler-22B!
