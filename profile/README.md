@@ -22,6 +22,7 @@ We also hope you can all stick around for the exciting future of the inclusive s
 </a></div></body>
 <body>
 <div align="center">
+  
 ### 📫 Check us out!
 [![Website](https://tinyurl.com/4uktfywu)](https://venith.net)<br>
 [![Guilded](https://tinyurl.com/pmretkub)](https://guilded.gg/TDK)<br>
