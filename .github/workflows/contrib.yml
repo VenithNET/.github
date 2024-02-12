@@ -38,8 +38,8 @@ jobs:
         git config --global user.email "you@example.com"
         git config --global user.name "MattTheTekie"
         git config --global init.defaultBranch main
-        git remote add origin "https://github.com/VenithNET/.github"
         git init
+        git remote add origin "https://github.com/VenithNET/.github"
         git add .
         git commit -m "contib"
         git push -f origin main
