@@ -37,8 +37,8 @@ jobs:
         rm -rf .git/
         git init
         git remote add origin https://github.com/VenithNET/.github/
-        git config --global user.email "you@example.com"
-        git config --global user.name "MattTheTekie"
         git add .
         git commit -m "contib"
         git push -f origin main
+        git config --global user.email "you@example.com"
+        git config --global user.name "MattTheTekie"
