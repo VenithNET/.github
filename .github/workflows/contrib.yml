@@ -36,6 +36,7 @@ jobs:
       run: |
         git config --global user.email "you@example.com"
         git config --global user.name "MattTheTekie"
+        git rebase origin/main
         git add .
         git commit -m "contib"
-        git push origin HEAD:main
+        git push origin main --force-with-lease
