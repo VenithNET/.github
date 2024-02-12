@@ -35,7 +35,7 @@ jobs:
     - name: Push Contributors
       run: |
         rm -rf .git/
-        git config --global url.https://github.com/VenithNET/.github/
+        git config --global url."https://github.com/VenithNET/.github/"
         git config --global user.email "you@example.com"
         git config --global user.name "MattTheTekie"
         git config --global init.defaultBranch main
