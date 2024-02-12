@@ -37,5 +37,5 @@ jobs:
         git config --global user.email "you@example.com"
         git config --global user.name "MattTheTekie"
         git add .
-        git commit -m "contrib" || true
+        git commit -m "contrib" --allow-empty || git commit -m "contrib" || true
         git push origin main
