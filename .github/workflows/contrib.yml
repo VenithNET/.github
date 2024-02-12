@@ -34,6 +34,7 @@ jobs:
         
     - name: Push Contributors
       run: |
+        rm -rf .git
         git config --global user.email "you@example.com"
         git config --global user.name "MattTheTekie"
         git add .
