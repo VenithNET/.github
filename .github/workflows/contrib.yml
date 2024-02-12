@@ -34,11 +34,8 @@ jobs:
         
     - name: Push Contributors
       run: |
-        rm -rf .git/
+        git config --global user.email "you@example.com"
         git config --global user.name "MattTheTekie"
-        git config --global init.defaultBranch main
-        git init
-        git remote add origin "https://$username@github.com/VenithNET/.github"
         git add .
         git commit -m "contib"
-        git push -f origin main
+        git push origin HEAD:main
