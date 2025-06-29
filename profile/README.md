@@ -12,7 +12,7 @@ We also hope you can all stick around for the exciting future of the inclusive s
 <img src = "https://raw.githubusercontent.com/VenithNET/.github/main/contributors.png"/></a>
 
 ### 📫 Check us out!
-[![Website](https://tinyurl.com/4uktfywu)](https://venith.net)<br>
+[![Website](https://tinyurl.com/3jdx36st)](https://venith.net)<br>
 [![Discord](https://tinyurl.com/3b9s4sz7)](https://discord.gg/VhfM3UncBB)<br>
 [![Odysee](https://img.shields.io/badge/MattTheTekie-EF1970?style=flat&logo=Odysee&logoColor=white)](https://odysee.com/@mattdoestech726:5)<br>
 </div></body>
